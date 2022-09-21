@@ -23,7 +23,7 @@ $ git clone git@github.com:fabianofrank/hello-rails-react.git
 ```
 $ cd hello-rails-react
 ```
-```
+
 ## Getting Started
 
 This repository includes files with Ruby that can be used to test the created main classes from the app
