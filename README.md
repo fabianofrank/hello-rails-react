@@ -52,7 +52,8 @@ Build manually and run the server with rails:
 yarn build
 ```
 
- - Finaly run `rails s` and visit http://localhost:3000/api/greetings  in your browser!
+ - Finaly run `rails s` and visit http://localhost:3000 in your browser!
+ - If you want to checkout the API endpoints go to: http://localhost:3000/api/greetings
 
 
 ## Built With
