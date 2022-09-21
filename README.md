@@ -50,9 +50,9 @@ Build manually and run the server with rails:
 
 ```
 yarn build
-
 ```
- - Finaly run `rails s` and visit http://localhost:3000/messages  in your browser!
+
+ - Finaly run `rails s` and visit http://localhost:3000/api/greetings  in your browser!
 
 
 ## Built With
